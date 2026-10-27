@@ -4,5 +4,18 @@
   "createdAt": "2026-10-27T14:28:26.132Z",
   "filename": "a349f2e2-b9fd-4f7c-a6f4-3d39e6c8c7b6.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "984d8b95-0927-4644-910b-e650bcd47eeb",
+      "role": "user",
+      "content": "Now that my Google account is connected, inspect the available project files and GitHub integration. Explain exactly how I can import my existing TRUE TALK repository or upload my original HTML file from my iPhone. Do not create another project, delete files, or modify anything yet.",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-27T14:31:51.879Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
